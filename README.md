@@ -1,6 +1,7 @@
-# 👋 Hi, I’m Nikita Voloshin
+![alt text](https://github.com/nukuutos/nukuutos/blob/main/header.png?raw=true)
 
-I'm MERN stack developer. <br /><br /> Last 2 years working on Beaurel project:
+## I'm MERN Stack Developer
+Last 2 years working on Beaurel project:
 - [Beaurel client](https://github.com/nukuutos/beaurel-client)
 - [Beaurel API](https://github.com/nukuutos/beaurel-api)
 
