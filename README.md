@@ -24,11 +24,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## Bio 👀
+## Bio 😄
 
 - 💞️ I'm interested in to contribute and collaborate to your projects :)
 - 👀 I'm looking for job positions like Full Stack Developer, Software Engineer.
-- 🤓 Open source beginner
+- 🌱 Open source beginner
 - 🎓 One semester away from graduating as computer security specialist
 - 🎮 Like to play CTFs
 
