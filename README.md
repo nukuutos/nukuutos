@@ -26,8 +26,9 @@
 
 ## Bio 😄
 
-- 💞️ I'm interested in to contribute and collaborate to your projects :)
-- 👀 I'm looking for job positions like Full Stack Developer, Software Engineer.
+- 💞 Interested in contributing to your projects :)
+- ✉️ Open to invitations for collaboration
+- 👀 Looking for job positions of Full Stack Developer, Software Engineer
 - 🌱 Open source beginner
 - 🎓 One semester away from graduating as computer security specialist
 - 🎮 Like to play CTFs
