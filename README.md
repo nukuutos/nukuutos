@@ -21,6 +21,8 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-05122A?style=flat&logo=githubactions&logoColor=FFFFFF)
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
