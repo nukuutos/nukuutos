@@ -46,3 +46,4 @@ Last 2 years working on Beaurel project:
  You can reach me:
 - by sending an email to dev.nukuutos@gmail.com
 - by leaving a message on [linkedIn](https://linkedin.com/in/nukuutos)
+- by contact form on [my portfolio](https://nukuutos.github.io/portfolio)
