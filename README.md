@@ -37,9 +37,10 @@
 
 ## Personal project 💼
 
-Last 2 years working on Beaurel project:
-- [Beaurel client](https://github.com/nukuutos/beaurel-client)
-- [Beaurel API](https://github.com/nukuutos/beaurel-api)
+Last 2 years working on <ins>**Beaurel**</ins> project:
+- [Client](https://github.com/nukuutos/beaurel-client)
+- [API](https://github.com/nukuutos/beaurel-api)
+- [Demo](https://github.com/nukuutos/beaurel-demo)
 
 ## Contact 📫
 
