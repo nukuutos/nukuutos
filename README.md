@@ -28,11 +28,10 @@
 
 ## Bio 😄
 
-- 💞 Interested in contributing to your projects :)
-- ✉️ Open to invitations for collaboration
 - 👀 Looking for job positions of Full Stack Developer, Software Engineer
-- 🌱 Open source beginner
 - 🎓 One semester away from graduating as computer security specialist
+- 💞 Interested in contributing to your projects
+- ✉️ Open to invitations for collaboration
 - 🎮 Like to play CTFs
 
 ## Personal project 💼
