@@ -28,15 +28,15 @@
 
 ## Bio 😄
 
-- 👀 Looking for job positions of Full Stack Developer, Software Engineer
-- 🎓 One semester away from graduating as a computer security specialist
+- 👀 Looking for job positions of Software Engineer
+- 🎓 One semester away from graduating as a Computer Security Specialist
 - 💞 Interested in contributing to your projects
 - ✉️ Open to invitations for collaboration
 - 🎮 Like to play CTFs
 
 ## Personal project 💼
 
-Last 2 years working on <ins>**Beaurel**</ins> project:
+Over 2 years working on <ins>**Beaurel**</ins> project:
 - [Client](https://github.com/nukuutos/beaurel-client)
 - [API](https://github.com/nukuutos/beaurel-api)
 - [Demo](https://github.com/nukuutos/beaurel-demo)
