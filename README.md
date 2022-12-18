@@ -28,7 +28,7 @@
 
 ## Bio 😄
 
-- 👀 Looking for job positions of Software Engineer
+- 👀 Looking for job positions of Frontend Developer
 - 🎓 One semester away from graduating as a Computer Security Specialist
 - 💞 Interested in contributing to your projects
 - ✉️ Open to invitations for collaboration
